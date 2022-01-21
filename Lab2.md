@@ -3,11 +3,11 @@
 
 ### gitk screenshot
 
-![gitk image] (gitk.PNG)
+![gitk image](gitk.PNG)
 
 ### gitk all screenshot
 
-![gitkall image] (gitkall.PNG)
+![gitkall image](gitkall.PNG)
 
 ### git-log screenshot
 
