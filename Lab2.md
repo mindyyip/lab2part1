@@ -3,7 +3,7 @@
 
 ### Lab2Part1 REPO Link
 
-[New Repo Link] (https://github.com/mindyyip/lab2part1)
+[New Repo Link](https://github.com/mindyyip/lab2part1)
 
 ### gitk screenshot
 
