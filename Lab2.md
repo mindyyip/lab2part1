@@ -1,6 +1,10 @@
 
 ## Part 1
 
+### Lab2Part1 REPO Link
+
+[New Repo Link] (https://github.com/mindyyip/lab2part1)
+
 ### gitk screenshot
 
 ![gitk image](gitk.PNG)
